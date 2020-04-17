@@ -1,0 +1,9 @@
+name: SolaryMMO
+version: 1.0-SNAPSHOT
+main: br.com.solary.mmo.SolaryMMO
+authors: [Aureom, TequilAxBr]
+depend: [SolaryCore]
+commands:
+    givebooster:
+      aliases: [gbooster, gb]
+    booster:
